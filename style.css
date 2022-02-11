@@ -2,8 +2,9 @@
   display: flex;
   justify-content: space-around;
   height: 5rem;
+  align-items: flex-end;
 }
-#bar {
+.bar {
   flex-grow: 1;
   border: 1px solid black;
   background-color: darkviolet;
